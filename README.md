@@ -1,2 +1,2 @@
 # ghApiTest
-This repo is to get familiar with github API using Octokit
+This branch is just made to add content to the array of PR
